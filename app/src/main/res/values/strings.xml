@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SateChange</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_string">New Button</string>
+    <string name="button_on_wifi">ON WIFI</string>
+    <string name="button_off_wifi">OFF WIFI</string>
+    <string name="editTextLocalisationWIFI">localisationWIFI</string>
+    <string name="editTextPositionGPS">positionGPS</string>
+    <string name="editTextRayonGPS">rayonGPS</string>
+    <string name="editTextHoraireDebut">horaireDebut</string>
+    <string name="editTextHoraireFin">horaireFin</string>
+
+</resources>
